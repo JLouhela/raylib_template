@@ -1,0 +1,1 @@
+Minimal setup for raylib project using CMake and git submodule
